@@ -72,3 +72,37 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/KiteDemo/Environments/Rocks/Scree001/T_Scree_001_D_CC.uasset
+Content/KiteDemo/Environments/Rocks/Scree001/T_Scree_001_N.uasset
+Content/KiteDemo/Environments/Rocks/Scree002/T_Scree002_D_R.uasset
+Content/KiteDemo/Environments/Rocks/Scree002/T_Scree002_N.uasset
+Content/KiteDemo/Environments/Trees/Tree_Stump_01/D_Tree_Stump_01_D_R.uasset
+Content/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_D_R.uasset
+Content/KiteDemo/Environments/Trees/Vegetation_Debris_002/T_Vegetation_Debris_002_N.uasset
+Content/KiteDemo/LevelContent/HDRI/KimsBackYard.uasset
+Content/Movies/Digital Media Art (2).mp4
+Content/SHJ/Asset/ajudas-palace-entrance/source/PALACIO_AJUDAV2.uasset
+
+Content/KiteDemo/Environments/Cliffs/Cliff01/T_Cliff01_D_CC_R.uasset
+Content/KiteDemo/Environments/Cliffs/Cliff01/T_Cliff01_N.uasset
+Content/KiteDemo/Environments/GroundTiles/AlpinePatch001/T_AlpinePatch001_D_alt_R.uasset
+Content/KiteDemo/Environments/GroundTiles/AlpinePatch001/T_AlpinePatch001_D_R.uasset
+Content/KiteDemo/Environments/GroundTiles/AlpinePatch001/T_AlpinePatch001_N.uasset
+Content/KiteDemo/Environments/GroundTiles/ForestPath_001/T_Forest_Path_001B_D_R.uasset
+Content/KiteDemo/Environments/GroundTiles/ForestPath_001/T_Forest_Path_001B_N.uasset
+Content/KiteDemo/Environments/GroundTiles/PebblyRiverbank/T_Tile_PebblyRiverbank_D_R.uasset
+Content/KiteDemo/Environments/GroundTiles/PebblyRiverbank/T_Tile_PebblyRiverbank_N.uasset
+Content/KiteDemo/Environments/GroundTiles/RiverPebbles/T_RiverPebbles_001_D_R.uasset
+Content/KiteDemo/Environments/GroundTiles/RockFace003/T_GDC_RockFace003_N.uasset
+Content/KiteDemo/Environments/GroundTiles/RockFace003/T_GDC_RockFace003_D_R.uasset
+Content/KiteDemo/Environments/GroundTiles/RockyPath/T_GDC_StonePath_Tile_D_R.uasset
+Content/KiteDemo/Environments/GroundTiles/RockyPath/T_GDC_StonePath_Tile_N.uasset
+Content/KiteDemo/Environments/Rocks/GroundRevealRock002/T_GroundRevealRock002_N.uasset
+Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/T_GDC_LargeVolcanicRock_001_D2_R.uasset
+Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/T_GDC_LargeVolcanicRock_001_N.uasset
+Content/KiteDemo/Environments/Rocks/LargePlainsBoulder002/T_LargePlainsBoulder002_D_R.uasset
+Content/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_Closed_D.uasset
+Content/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_Closed_D2.uasset
+Content/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_Closed_N.uasset
+Content/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_D.uasset
+Content/KiteDemo/Environments/Rocks/Mountain_RockFace_002/T_MountainRock_N.uasset
